@@ -1,3 +1,3 @@
-[submodule "Desktop-App"]
-	path = Desktop-App
+[submodule "DesktopApp"]
+	path = DesktopApp
 	url = https://github.com/Samay97/SmartHome-App
