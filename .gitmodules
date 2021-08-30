@@ -1,3 +1,6 @@
 [submodule "DesktopApp"]
 	path = DesktopApp
 	url = https://github.com/Samay97/SmartHome-App
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Samay97/SmartHome-Backend
